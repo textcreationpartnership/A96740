@@ -1,0 +1,348 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Boni ominis votum: a good omen to the next Parliament, expressed upon occasion of those extraordinary grand juries, lately summoned out of the most eminent baronets, knights, esquires, and gentlemen, in some counties, to serve at the summer assises, this year, 1656. / By a faithfull servant to this republick.</title>
+            <author>Wither, George, 1588-1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96740</idno>
+            <idno type="STC">Wing W3142</idno>
+            <idno type="STC">Thomason E884_4*</idno>
+            <idno type="STC">ESTC R207309</idno>
+            <idno type="EEBO-CITATION">99866367</idno>
+            <idno type="PROQUEST">99866367</idno>
+            <idno type="VID">118638</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96740)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118638)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 133:E884[4*])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Boni ominis votum: a good omen to the next Parliament, expressed upon occasion of those extraordinary grand juries, lately summoned out of the most eminent baronets, knights, esquires, and gentlemen, in some counties, to serve at the summer assises, this year, 1656. / By a faithfull servant to this republick.</title>
+                  <author>Wither, George, 1588-1667.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Hardesty, at the black Spread-Eagle in Duck Lane, or at his shop in the Strand nigh Worcester House.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1656]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Faithfull servant to this republick = George Wither; signed at end: Geo. Wither.</note>
+                  <note>Imprint date from Wing.</note>
+                  <note>In verse.</note>
+                  <note>A congratulary poem on the Parliament of 1656. Cf. DNB.</note>
+                  <note>Annotation on Thomason copy: "By George Wither master of ye statute office given him by ye Lord Protector lately".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118638:1" rendition="simple:additions"/>
+            <p>Boni ominis Votum: A GOOD OMEN To the next PARLIAMENT, Expreſſed upon occaſion of thoſe extra<g ref="char:EOLhyphen"/>ordinary <hi>Grand Juries,</hi> lately ſummoned out of the moſt eminent <hi>Baronets, Knights, Eſquires,</hi> and <hi>Gentlemen,</hi> in ſome <hi>Counties,</hi> to ſerve at the ſummer <hi>Aſſiſes,</hi> this year, 1656. By a faithfull Servant to this Republick.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>John Hardeſty,</hi> at the black <hi>Spread-Eagle</hi> in <hi>Duck</hi> Lane, or at his ſhop in the Strand nigh <hi>Worceſter</hi> Houſe.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:118638:2"/>
+            <head>Boni ominis Votum.</head>
+            <head type="sub">A good Omen to the next Parliament, <hi>&amp;c.</hi>
+            </head>
+            <lg>
+               <l>
+                  <hi>GOod ſpeed</hi> to this Republike; and, increaſe</l>
+               <l>Of happineſſe, to thoſe who ſeek her <hi>peace.</hi>
+               </l>
+               <l>
+                  <hi>Sad things</hi> are threatned, and a <hi>lowring sky</hi>
+               </l>
+               <l>Seems to portend, great <hi>ſtorms</hi> are drawing nigh:</l>
+               <l>But look <hi>above them,</hi> and good courage take,</l>
+               <l>The <hi>Sunne</hi> ſtill ſhines, although the <hi>clouds</hi> be black,</l>
+               <l>And <hi>beamings</hi> through their <hi>darkeſt parts</hi> appeare,</l>
+               <l>Whereby, diſcernable <hi>good Omens</hi> are,</l>
+               <l>With <hi>Symptoms</hi> of the <hi>Bleſsing</hi> we expect,</l>
+               <l>If, <hi>we our ſelves,</hi> obſtruct not their effect,</l>
+               <l>And turne them to <hi>ill ſignes:</hi> which to prevent,</l>
+               <l>That, which here followes, gives a needfull <hi>hint.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>As both <hi>abroad,</hi> and here within <hi>this Land,</hi>
+               </l>
+               <l>
+                  <hi>Publike</hi> and <hi>private mens affaires,</hi> now ſtand.</l>
+               <pb n="2" facs="tcp:118638:3"/>
+               <l>This <hi>year</hi> is likely to be <hi>criticall,</hi>
+               </l>
+               <l>About the time in which the leaves will fall,</l>
+               <l>If, <hi>preconjectures,</hi> may be builded on</l>
+               <l>Things <hi>put in action,</hi> with things <hi>left undone,</hi>
+               </l>
+               <l>Speld both together; and from ſome of theſe,</l>
+               <l>We may deduce <hi>good cautions,</hi> if we pleaſe.</l>
+            </lg>
+            <lg>
+               <l>Whether it were the <hi>policy</hi> of ſome,</l>
+               <l>In hope, it an Obſtruction might become</l>
+               <l>To <hi>Concord;</hi> or, the prudence of the <hi>Shreeve,</hi>
+               </l>
+               <l>Or, <hi>ſpeciall providence,</hi> which did contrive</l>
+               <l>Thoſe <hi>Grand-grand Iuries,</hi> that muſt repreſent</l>
+               <l>Their <hi>Counties,</hi> we, ſhall beſt know by th' event:</l>
+               <l>For, whether cheerfully they come to doe</l>
+               <l>That ſervice which their <hi>Call</hi> invites them to,</l>
+               <l>Or, by a <hi>wilfull non-appearance,</hi> wave</l>
+               <l>That duty, which the <hi>common cauſe</hi> doth crave,</l>
+               <l>It will be <hi>ſignall;</hi> and, to many a one,</l>
+               <l>A <hi>Teſt,</hi> as virtuall as the <hi>Lydian stone:</hi>
+               </l>
+               <l>And, alſo, give an <hi>intellectuall view,</hi>
+               </l>
+               <l>Of ſome <hi>Reſults,</hi> which thereon will enſue</l>
+               <l>At their <hi>next meeting,</hi> who, to repreſent</l>
+               <l>This <hi>Nation,</hi> ſhall be ſummoned and ſent.</l>
+            </lg>
+            <lg>
+               <l>For, thoſe <hi>Grand Iurors,</hi> are now choſen forth</l>
+               <l>Of <hi>them,</hi> whoſe gifts, eſtates, degree, or birth,</l>
+               <l>Hath ranck'd them with the <hi>beſt:</hi> yea, out of <hi>thoſe</hi>
+               </l>
+               <l>(Excepting ſuch as have been <hi>open foes</hi>
+               </l>
+               <l>To this <hi>Republike</hi>) who, have been ſuſpected</l>
+               <l>Meer <hi>Newters,</hi> or, elſe, <hi>perſons diſaffected,</hi>
+               </l>
+               <l>As well, as from among them, whoſe true zeale</l>
+               <l>Hath kept them conſtant to this <hi>Common-weale;</hi>
+               </l>
+               <l>That, they, whoſe <hi>faiths</hi> yet queſtionable are,</l>
+               <l>May to this <hi>Government</hi> themſelves indear</l>
+               <pb n="3" facs="tcp:118638:3"/>
+               <l>Some way; and, from henceforth, enrolled ſtand</l>
+               <l>Among the nobleſt <hi>Patr'ots</hi> of the Land,</l>
+               <l>Endow'd with all their <hi>Liberties,</hi> and freed</l>
+               <l>From thoſe <hi>diſtinguiſhments,</hi> which, either breed</l>
+               <l>Or nouriſh ſecret hat red, to th' increaſe</l>
+               <l>Of <hi>Quarrels,</hi> and deminiſhment of <hi>Peace;</hi>
+               </l>
+               <l>If, they, ſhall not imprudently contemn</l>
+               <l>That meanes thereof, which, now, is offred them.</l>
+            </lg>
+            <lg>
+               <l>And, who can tell, what <hi>providence,</hi> by theſe</l>
+               <l>(Though ſome diſſent in judgement) will now pleaſe,</l>
+               <l>In ſeaſon to effect, for preſervation,</l>
+               <l>Or ſettlement of <hi>Peace</hi> throughout this <hi>Nation?</hi>
+               </l>
+               <l>When things are acted, by a moderate</l>
+               <l>Expoſtulation, in a <hi>joint debate,</hi>
+               </l>
+               <l>Where, ev'ry one, may freely ſpeak his thought;</l>
+               <l>And, when it is conſidered, as it ought,</l>
+               <l>That, no man can of ſafety be aſſur'd,</l>
+               <l>Untill the <hi>Publike wel-fare</hi> be ſecur'd.</l>
+            </lg>
+            <lg>
+               <l>We know, that <hi>diffring ſimples</hi> put together</l>
+               <l>To qualifie, and to correct each other,</l>
+               <l>(Though ſome of them be poiſon) purge away</l>
+               <l>
+                  <hi>Malignant humours,</hi> which would elſe deſtroy</l>
+               <l>The life of man: So, they, who formerly</l>
+               <l>Did in their <hi>ſingular capacity</hi>
+               </l>
+               <l>And <hi>private judgement,</hi> ſometimes, <hi>act</hi> or <hi>ſpeake,</hi>
+               </l>
+               <l>What might, at leaſt, indanger, if not breake</l>
+               <l>The <hi>Common peace,</hi> may, when they gathered are</l>
+               <l>Into one <hi>fellowſhip,</hi> be helpfull there,</l>
+               <l>Both to <hi>themſelves</hi> and <hi>Countries,</hi> ten times more</l>
+               <l>Then they have been, or could be, heretofore.</l>
+            </lg>
+            <lg>
+               <l>Yea, as the fat <hi>Lime</hi> and the barren <hi>Sand,</hi>
+               </l>
+               <l>When they are mixed, make a ſtronger band</l>
+               <l>To binde together rough or hewed ſtone,</l>
+               <l>Then either of them could have done alone;</l>
+               <pb n="4" facs="tcp:118638:4"/>
+               <l>So, may by them who are <hi>diſſenters,</hi> now,</l>
+               <l>Our <hi>publike buildings</hi> much the ſtronger grow,</l>
+               <l>When, they, into one <hi>Structure</hi> ſhall be fixt</l>
+               <l>Well qualifi'd, and rationally mixt;</l>
+               <l>And, prove a happy <hi>Omen</hi> and preſage,</l>
+               <l>To thoſe, who, now are ſummon'd to engage</l>
+               <l>Within a higher <hi>Orbe,</hi> and, ſhortly muſt</l>
+               <l>Become our <hi>Truſtees,</hi> in a higher truſt.</l>
+               <l>For, he, who hath conſider'd it, beleeves</l>
+               <l>That, if thoſe <hi>petty-Repreſentatives,</hi>
+               </l>
+               <l>By <hi>loving prudence,</hi> ſhall prepare a <hi>way</hi>
+               </l>
+               <l>Thereto (as in good likelihood they may)</l>
+               <l>That nobler <hi>Body,</hi> which to its perfection,</l>
+               <l>Muſt (for the moſt part) riſe by their <hi>election,</hi>
+               </l>
+               <l>Will be ſo moduliz'd, and temper'd ſo,</l>
+               <l>That, <hi>diſcords,</hi> into <hi>ſympathy</hi> ſhall grow:</l>
+               <l>And, all our feares and dangers, in the cloſe,</l>
+               <l>Quite vaniſh, to the terrour of our <hi>foes.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>We ſee, <hi>unlike</hi> and <hi>diſagreeing matter,</hi>
+               </l>
+               <l>Such as the <hi>earth</hi> and <hi>aire,</hi> the <hi>fire</hi> and <hi>water,</hi>
+               </l>
+               <l>Makes perfect <hi>naturall bodies:</hi> wherefore, then,</l>
+               <l>May we not hope, that <hi>diffring minded men</hi>
+               </l>
+               <l>Themſelves, may reaſon forth, out of a <hi>ſick</hi>
+               </l>
+               <l>Into a <hi>healthy body-politick</hi>
+               </l>
+               <l>By GOD's aſſiſtance (when our diſcontent</l>
+               <l>Is cur'd, and, our malignant humour ſpent)</l>
+               <l>Before we feelingly, by <hi>Senſe</hi> perceive,</l>
+               <l>What, <hi>Reaſon,</hi> cannot make us yet believe?</l>
+            </lg>
+            <lg>
+               <l>It may be thus, and will be thus, if, yet</l>
+               <l>Mens <hi>Wilfulneſſe</hi> hath left them any wit:</l>
+               <l>For, why ſhould they, who now may be at reſt,</l>
+               <l>Run hazards to advance their <hi>intereſt,</hi>
+               </l>
+               <l>Whom nothing elſe could ſatisfie, but <hi>powre,</hi>
+               </l>
+               <l>All others, at their pleaſure to devoure,</l>
+               <pb n="5" facs="tcp:118638:4"/>
+               <l>And ſpoilers of their <hi>own eſtates</hi> become,</l>
+               <l>To make a <hi>fortune,</hi> for they know not whom?</l>
+               <l>Why ſhould they venture, their <hi>reſpects</hi> to loſe,</l>
+               <l>Who, have been antient friends, to get <hi>new Foes?</hi>
+               </l>
+               <l>Or, ſeek to have that <hi>game</hi> afreſh begun,</l>
+               <l>By which, <hi>all may be loſt,</hi> and, <hi>nothing won?</hi>
+               </l>
+               <l>I hope we ſhall be wiſer, and, that <hi>wee,</hi>
+               </l>
+               <l>Whoſe <hi>weal and ſafeties</hi> much concerned be</l>
+               <l>In this <hi>expedient,</hi> ſhall ſo cautiouſly</l>
+               <l>Proceed; and, act with ſo much prudency,</l>
+               <l>That, whatſoever others do intend,</l>
+               <l>Or put in practice, we, ſhall ſeek that end</l>
+               <l>We ought to proſecute; and, at the laſt,</l>
+               <l>Our <hi>Anchor</hi> in a peacefull harbour caſt.</l>
+            </lg>
+            <lg>
+               <l>I wiſh it heartily; and (ſince I ſee,</l>
+               <l>
+                  <hi>Wiſhings</hi> in vaine, without <hi>endeavours</hi> be)</l>
+               <l>That, thoſe whom it concernes, provoke I may</l>
+               <l>To ſeek this bleſſing, and help make the way</l>
+               <l>To what I wiſh for, I, compos'd this SPELL:</l>
+               <l>Let him, who moov'd me to it, <hi>ſpeed it well;</hi>
+               </l>
+               <l>And, make it ſo conſidered by this <hi>Nation,</hi>
+               </l>
+               <l>(Before things grow beyond conſideration)</l>
+               <l>That, <hi>words,</hi> which to their <hi>ſafety</hi> do pertain,</l>
+               <l>May not be alway ſpoke to them in vaine;</l>
+               <l>For, they are <hi>fools,</hi> who, ſtill purſue a courſe</l>
+               <l>Which makes a <hi>ſickly-being</hi> to be worſe.</l>
+               <l>And, they are alſo, ſomewhat more then <hi>mad,</hi>
+               </l>
+               <l>Who would exchange a <hi>good-one</hi> for a <hi>bad,</hi>
+               </l>
+               <l>Or, put in hazard, a <hi>poſſeſſed LOT,</hi>
+               </l>
+               <l>In hope to get, what never can be got.</l>
+            </lg>
+            <closer>
+               <signed>So thinks <hi>Geo. Wither.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
